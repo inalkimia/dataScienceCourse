@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "##test",
+    "created" : 1486310338536.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1335894783",
+    "id" : "4A0C2B3C",
+    "lastKnownWriteTime" : 1486310352,
+    "last_content_update" : 1486310352742,
+    "path" : "~/workspaces/R/test_repo_r/ScienceDataCourse/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
